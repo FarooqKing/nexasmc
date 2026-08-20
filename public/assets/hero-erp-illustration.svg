@@ -1,0 +1,68 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#EEF2FF"/>
+      <stop offset="1" stop-color="#F8FAFC"/>
+    </linearGradient>
+    <linearGradient id="pri" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#4F46E5"/>
+      <stop offset="1" stop-color="#7C3AED"/>
+    </linearGradient>
+    <filter id="shadow" x="0" y="0" width="1200" height="900" filterUnits="userSpaceOnUse">
+      <feDropShadow dx="0" dy="22" stdDeviation="28" flood-color="#0F172A" flood-opacity="0.14"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="900" rx="44" fill="url(#bg)"/>
+  <circle cx="1000" cy="150" r="120" fill="#DDD6FE" opacity="0.65"/>
+  <circle cx="150" cy="760" r="110" fill="#DBEAFE" opacity="0.55"/>
+  <g filter="url(#shadow)">
+    <rect x="116" y="98" width="968" height="704" rx="36" fill="#FFFFFF"/>
+  </g>
+  <rect x="116" y="98" width="968" height="88" rx="36" fill="#F8FAFC"/>
+  <circle cx="166" cy="142" r="10" fill="#FCA5A5"/>
+  <circle cx="198" cy="142" r="10" fill="#FCD34D"/>
+  <circle cx="230" cy="142" r="10" fill="#86EFAC"/>
+  <rect x="282" y="126" width="220" height="32" rx="16" fill="#EEF2FF"/>
+  <rect x="314" y="136" width="110" height="12" rx="6" fill="#818CF8"/>
+  <rect x="160" y="226" width="236" height="524" rx="28" fill="#F8FAFC"/>
+  <rect x="190" y="260" width="126" height="14" rx="7" fill="#CBD5E1"/>
+  <rect x="190" y="302" width="176" height="86" rx="20" fill="#FFFFFF" stroke="#E2E8F0"/>
+  <rect x="214" y="326" width="80" height="16" rx="8" fill="#4F46E5" opacity="0.15"/>
+  <rect x="214" y="352" width="118" height="12" rx="6" fill="#94A3B8" opacity="0.65"/>
+  <rect x="190" y="410" width="176" height="86" rx="20" fill="#FFFFFF" stroke="#E2E8F0"/>
+  <rect x="214" y="434" width="62" height="16" rx="8" fill="#14B8A6" opacity="0.22"/>
+  <rect x="214" y="460" width="104" height="12" rx="6" fill="#94A3B8" opacity="0.65"/>
+  <rect x="190" y="518" width="176" height="86" rx="20" fill="#FFFFFF" stroke="#E2E8F0"/>
+  <rect x="214" y="542" width="98" height="16" rx="8" fill="#F59E0B" opacity="0.22"/>
+  <rect x="214" y="568" width="128" height="12" rx="6" fill="#94A3B8" opacity="0.65"/>
+  <rect x="432" y="226" width="612" height="246" rx="30" fill="#FFFFFF" stroke="#E2E8F0"/>
+  <text x="468" y="274" fill="#0F172A" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="700">ERP Performance Overview</text>
+  <text x="468" y="308" fill="#64748B" font-family="Inter, Arial, sans-serif" font-size="18">Connected reporting across finance, operations and analytics</text>
+  <rect x="468" y="340" width="112" height="38" rx="19" fill="#EEF2FF"/>
+  <text x="497" y="364" fill="#4F46E5" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700">Live KPI</text>
+  <rect x="604" y="340" width="128" height="38" rx="19" fill="#ECFDF5"/>
+  <text x="630" y="364" fill="#059669" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700">Synced Data</text>
+  <rect x="756" y="340" width="170" height="38" rx="19" fill="#FFF7ED"/>
+  <text x="782" y="364" fill="#D97706" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700">Automation Ready</text>
+  <path d="M484 430C528 390 572 398 606 430C645 466 682 469 720 438C758 406 811 395 862 429C902 456 935 454 996 404" stroke="url(#pri)" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="484" cy="430" r="10" fill="#4F46E5"/>
+  <circle cx="606" cy="430" r="10" fill="#5B56E6"/>
+  <circle cx="720" cy="438" r="10" fill="#6861E8"/>
+  <circle cx="862" cy="429" r="10" fill="#745FEB"/>
+  <circle cx="996" cy="404" r="10" fill="#7C3AED"/>
+  <rect x="432" y="502" width="292" height="248" rx="30" fill="#FFFFFF" stroke="#E2E8F0"/>
+  <text x="468" y="552" fill="#0F172A" font-family="Inter, Arial, sans-serif" font-size="26" font-weight="700">Project Stages</text>
+  <rect x="468" y="590" width="220" height="16" rx="8" fill="#EEF2FF"/>
+  <rect x="468" y="590" width="156" height="16" rx="8" fill="#4F46E5"/>
+  <text x="468" y="634" fill="#475569" font-family="Inter, Arial, sans-serif" font-size="18">Requirements &amp; design</text>
+  <rect x="468" y="654" width="220" height="16" rx="8" fill="#ECFDF5"/>
+  <rect x="468" y="654" width="184" height="16" rx="8" fill="#10B981"/>
+  <text x="468" y="698" fill="#475569" font-family="Inter, Arial, sans-serif" font-size="18">Configuration &amp; migration</text>
+  <rect x="760" y="502" width="284" height="248" rx="30" fill="#FFFFFF" stroke="#E2E8F0"/>
+  <text x="788" y="552" fill="#0F172A" font-family="Inter, Arial, sans-serif" font-size="23" font-weight="700">Business Impact</text>
+  <rect x="804" y="630" width="50" height="62" rx="18" fill="#C7D2FE"/>
+  <rect x="876" y="606" width="50" height="86" rx="18" fill="#A5B4FC"/>
+  <rect x="948" y="580" width="50" height="112" rx="18" fill="#7C3AED"/>
+  <text x="788" y="716" fill="#64748B" font-family="Inter, Arial, sans-serif" font-size="16">Better visibility</text>
+  <text x="788" y="740" fill="#64748B" font-family="Inter, Arial, sans-serif" font-size="16">and faster decisions</text>
+</svg>
